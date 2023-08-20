@@ -1,2 +1,4 @@
 /.vscode
 /_zero_project
+# remove folders which contain word 'NOT'
+/*NOT*
